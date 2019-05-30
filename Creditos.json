@@ -1,0 +1,15 @@
+{
+"CantidadEstudiantes": 2,
+"CreditosTotales":20,
+"TotalCosto":5000,
+"Periodo":"2019-2",
+"Estudiantes":[ 
+    {"Matricula": "2018-0907", "Creditos":10, "Monto":2500},
+     {"Matricula": "2017-0982", "Creditos":10, "Monto":2500}
+    ]
+}
+
+
+
+
+
