@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const leerArchivo = () => {
-	let datos = fs.readFileSync('Creditos.json');
+const leerArchivo = (ruta) => {
+	let datos = fs.readFileSync(ruta);
 	let creditos = JSON.parse(datos);
 
 	return creditos;
